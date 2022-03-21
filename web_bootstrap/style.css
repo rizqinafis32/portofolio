@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #1d1818;
+}
+nav {
+  background-color: #1d1818;
+}
+#about {
+  background-color: #ff9d9d;
+}
+#project {
+  background-color: #1d1818;
+}
+#contact {
+  background-color: #ff9d9d;
+}
+footer {
+  background-color: #1d1818;
+}
+section {
+  padding-top: 5rem;
+}
+.card {
+  background-color: #ff9d9d;
+}
+.rounded-circle {
+  background-color: #ff9d9d;
+}
+form {
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
